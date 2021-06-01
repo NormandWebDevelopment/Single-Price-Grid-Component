@@ -1,0 +1,107 @@
+body {
+  background-color: white;
+  background-color: hsl(204, 43%, 93%);
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+
+div {
+  margin: 150px auto 0 auto;
+  width: 630.297px;
+}
+
+h1 {
+  color: white;
+  color: hsl(179, 62%, 43%);
+  width: 567.2673px;
+}
+
+h2 {
+  color: white;
+  color: hsl(71, 73%, 54%);
+  width: 567.2673px;
+}
+
+h3 {
+  color: white;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-block;
+  line-height: 1.5em;
+  color: white;
+  color: hsl(204, 43%, 93%);
+}
+
+p {
+  width: 90%;
+  line-height: 2em;
+  color: white;
+  color: hsl(218, 22%, 67%);
+}
+
+.top-top_container {
+  margin: 0;
+  background-color: white;
+  text-align: left;
+  padding: 35px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.top-grid {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.top-left_container {
+  margin: 0;
+  width: 280.1484px;
+  background-color: white;
+  background-color: hsl(182, 62%, 43%);
+  padding: 35px;
+  border-bottom-left-radius: 15px;
+
+}
+
+.top-right_container {
+  margin: 0;
+  width: 280.1484px;
+  background-color: white;
+  background-color: hsl(178, 72%, 43%);
+  padding: 35px;
+  border-bottom-right-radius: 15px;
+}
+
+.sign-up {
+  border: 0;
+  border-radius: 7.5px;
+  width: 90%;
+  padding: 0 75px 0 75px;
+  color: white;
+  line-height: 3;
+  font-size: 16px;
+  background-color: white;
+  background-color: hsl(71, 73%, 54%);
+}
+
+.sign-up:active {
+  color: white;
+  color: hsl(71, 73%, 54%);
+  background-color: white;
+}
+
+.p-color {
+  color: white;
+  color: hsl(204, 43%, 93%);
+}
+
+.dollar {
+  font-weight: bold;
+  font-size: 2em;
+  padding: 5px;
+}
